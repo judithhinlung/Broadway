@@ -11,7 +11,7 @@ h1 {
   font-size: 32px;
 }
 .hero {
-  background-image: url(./resources/images/ the-flatiron-building.png);
+  background-image: url('./resources/images/ the-flatiron-building.png');
   text-align: center;
   color: white;
 }
